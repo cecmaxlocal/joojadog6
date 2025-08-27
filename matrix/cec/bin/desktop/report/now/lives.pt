@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Relatório de Vidas</title>
+    <link rel="icon" type="image/x-icon" href="/static/favicon.ico">
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Relatório de Vidas</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Vidas Recentes</h2>
+            <ul>
+                <li>Vida 1</li>
+                <li>Vida 2</li>
+                <li>Vida 3</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Relatório de Vidas</p>
+    </footer>
+</body>
+</html>

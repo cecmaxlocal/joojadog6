@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Relatório de Mensagens</title>
+    <link rel="icon" type="image/x-icon" href="/static/favicon.ico">
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Relatório de Mensagens</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Mensagens Recentes</h2>
+            <ul>
+                <li>Mensagem 1</li>
+                <li>Mensagem 2</li>
+                <li>Mensagem 3</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Relatório de Mensagens</p>
+    </footer>
+</body>
+</html>

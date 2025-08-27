@@ -1,0 +1,11 @@
+#!//usr/bin/env raku
+
+use v6;
+use lib '../lib';
+use strict;
+
+
+# Test the main subroutine
+sub test_main {
+    say "Hello, World!", "main should return Hello, World!";
+}
