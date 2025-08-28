@@ -1,11 +1,13 @@
-![IDEDog6](./matrix/cec/image/logon2.jpeg)
+![IDEDog6](./matrix/cec/image/logon6.jpeg)
 
 Sounds like you're setting up a project structure and want to include some fun elements! Here's a possible README.md for your "joojadog6" project, incorporating your ideas:
 
 
----
+![IDEDog6](./matrix/cec/image/logon2.jpeg)
 
-![IDEDog6](./matrix/cec/image/logon6.jpeg)
+
+_____
+
 
 # Joojadog6: Desktop Future
 
