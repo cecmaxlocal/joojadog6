@@ -2,6 +2,7 @@
 
 That's an interesting combination of words! Let's break it down and see if we can connect them.
 
+
 **TV Future:**
 
 The future of TV is definitely leaning towards streaming and on-demand content. Traditional cable is slowly being replaced by services that offer a vast library of shows and movies, accessible anytime, anywhere. This is where companies like Roku come in.
@@ -23,5 +24,8 @@ CNN is a major news organization that has also adapted to the streaming era. The
 **Connecting the dots:**
 
 So, if we tie it all together, we could say that the "TV future" is being shaped by companies like "Roku" and news organizations like "CNN" that are embracing streaming. The "Raku butterfly" could be a symbolic representation of this transformation – a delicate yet vibrant evolution in how we consume media, constantly shifting and revealing new patterns, much like the iridescent glaze on Raku pottery.
+
+![IDEDog6](./matrix/cec/image/logon.jpg)
+
 
 Is there a specific connection you were thinking of between "Raku butterfly" and the others? I'm curious to hear your thoughts!
